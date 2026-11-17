@@ -1,6 +1,5 @@
-# Exp-5--Record-Implementation-of-Filters
+# Exp-5 Image Smoothing and Sharpening Using OpenCV
 
-# Image Smoothing and Sharpening Using OpenCV
 ##  Developed By
 
 **Name:** KARANKUMAR K
