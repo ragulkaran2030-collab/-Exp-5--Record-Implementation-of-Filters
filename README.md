@@ -3,8 +3,8 @@
 # Image Smoothing and Sharpening Using OpenCV
 ##  Developed By
 
- -**Name:** KARANKUMAR K
- -**Register No:** 212225040171
+**Name:** KARANKUMAR K
+ **Register No:** 212225040171
 
 
 ## Aim
